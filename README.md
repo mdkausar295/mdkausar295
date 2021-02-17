@@ -3,20 +3,8 @@
 
 
 <br/>
-<a href="https://twitter.com/rds_98">
-  <img align="left" alt="Rishabh | Twitter" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rishabhdeepsingh/">
-  <img align="left" alt="Rishabh's LinkdeIN" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/rishabhdeepsingh98">
-  <img align="left" alt="Rishabh's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/rishabhdeepsingh/">
-  <img align="left" alt="Rishabh's Instagram" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/mtuyfp6wnwh6b4bw2m51w0txl">
-  <img align="left" alt="Rishabh's Spotify" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
+<a href="https://www.facebook.com/Md.Kausar7788">
+  <img align="left" alt="Md.Kausar's Facebook" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
 </a>
 <br/> <br/>
 
