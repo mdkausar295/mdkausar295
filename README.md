@@ -1,5 +1,5 @@
-### Hi there <img alt='Hi' width="28" src="https://github.com/rishabhdeepsingh/rishabhdeepsingh/blob/master/hi.gif">
-<img align="right" width="300" height="400" src="https://github.com/rishabhdeepsingh/rishabhdeepsingh/blob/master/coding_from_home.gif">
+### Hi there <img alt='Hi' width="28" src="https://github.com/mdkausar295/mdkausar295/blob/master/hi.gif">
+<img align="right" width="300" height="400" src="https://github.com/mdkausar295/mdkausar295/blob/master/coding_from_home.gif">
 
 
 <br/>
@@ -14,9 +14,9 @@
 
 <br />
 
-[![CMax-Kausar github stats](https://github-readme-stats.vercel.app/api?username=mdkausar295&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![CMax-Kausar github stats](https://github-readme-stats.vercel.app/api?username=mdkausar295&count_private=true&show_icons=true&theme=radical)](https://github.com/mdkausar295/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkausar295&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdkausar295&layout=compact&theme=radical)](https://github.com/mdkausar295/github-readme-stats)
 
 <!--
 - 🔭 I’m currently working on: 
